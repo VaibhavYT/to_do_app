@@ -8,4 +8,5 @@ This repository is part of a tutorial on my YouTube.
 
 ## Screenshot
 
-![Flutter todo app](./flutter-todo-iphone.png)
+![flutter-todo-iphone](https://user-images.githubusercontent.com/78371075/216358088-f1a4c2d5-a56c-44ea-aa2a-4391c484a501.png)
+
